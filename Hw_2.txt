@@ -1,0 +1,4 @@
+İlk ödevdeki binarysearch kodu değiştirildi. Şu anda tam anlamıyla çalışmaktadır.
+Sonuç olarak ekrana bastığı index şu şekilde çalışmaktadır.
+Os'imizin sadece decimal number basma desteği vermesi nedeniyle basılan index hexadecimal sayının decimal sayıya dönüştürülmüş halidir. O indexi takip ederek
+girilen sayının exe.mem'de olduğu görülebilir.
